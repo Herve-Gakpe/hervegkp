@@ -48,7 +48,7 @@ def clean_data(data):
     return data
 
 
-def try_me()
+def try_me():
     return print('All you need is code... and some coffee ! ')
 
 
