@@ -48,6 +48,10 @@ def clean_data(data):
     return data
 
 
+def try_me()
+    return print('All you need is code... and some coffee ! ')
+
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import hervegkp
