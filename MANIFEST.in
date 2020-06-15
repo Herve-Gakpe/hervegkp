@@ -1,0 +1,3 @@
+graft hervegkp
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  hervegkp/jupy *
